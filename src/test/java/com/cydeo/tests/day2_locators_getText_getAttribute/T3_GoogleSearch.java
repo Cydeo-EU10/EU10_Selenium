@@ -35,8 +35,7 @@ public class T3_GoogleSearch {
             System.out.println("Title verification FAILED!!!");
         }
 
-        //BREAK 1.57CST
-        //BREAK 2.57EST
+
 
     }
 
