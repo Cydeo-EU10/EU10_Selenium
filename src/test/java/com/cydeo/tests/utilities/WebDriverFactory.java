@@ -5,7 +5,7 @@ package com.cydeo.tests.utilities;
 // Static method
 // Accepts String arg: browserType
 //   - This arg will determine what type of browser is opened
-//   - if "chrome" passed --> it will open chrome browser
+//   - if "chrome" passed --> it will open Chrome browser
 //   - if "firefox" passed --> it will open firefox browser
 // RETURN TYPE: "WebDriver"
 
