@@ -5,7 +5,7 @@ import org.openqa.selenium.*;
 
 import java.util.concurrent.*;
 
-public class T1_StaleElementRefEx {
+public class  T1_StaleElementRefEx {
 
     public static void main(String[] args) throws InterruptedException {
 
